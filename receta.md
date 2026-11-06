@@ -2,7 +2,7 @@
 
 Nombre del plato: Arepas de queso
 
-## Ingredientes
+## Ingredientes (para 6 arepas)
 
 - 2 tazas de harina de maíz precocida
 - 2 tazas de agua tibia
