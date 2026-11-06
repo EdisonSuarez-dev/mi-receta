@@ -21,3 +21,7 @@ Nombre del plato: Arepas de queso
 3. Incorporar el queso rallado.
 4. Formar bolitas y aplanarlas con las manos.
 5. Asar en un sartén caliente con un poco de mantequilla, 5 minutos por cada lado.
+
+## Consejo final
+
+Si la masa se agrieta al aplanarla, agrega un poco más de agua tibia. Sírvelas calientes con mantequilla o con un chocolate caliente.
