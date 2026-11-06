@@ -9,3 +9,7 @@ Nombre del plato: Arepas de queso
 - 1 taza de queso costeño rallado
 - 1 cucharadita de sal
 - 1 cucharada de mantequilla
+
+## Tiempo de preparación
+
+30 minutos
