@@ -13,3 +13,11 @@ Nombre del plato: Arepas de queso
 ## Tiempo de preparación
 
 30 minutos
+
+## Pasos de preparación
+
+1. Mezclar la harina con la sal.
+2. Agregar el agua poco a poco y amasar hasta que la masa no se pegue a las manos.
+3. Incorporar el queso rallado.
+4. Formar bolitas y aplanarlas con las manos.
+5. Asar en un sartén caliente con un poco de mantequilla, 5 minutos por cada lado.
